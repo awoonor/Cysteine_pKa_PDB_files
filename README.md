@@ -1,6 +1,6 @@
-# Cysteine pKa Benchmark Set
+# Cysteine pK<sub>a</sub> Benchmark Set for *in silico* pK<sub>a</sub> prediction
 
-This repository contains PDB files used for a cysteine pKa Benchmark study. 
+This repository contains PDB files used for a cysteine pK<sub>a</sub> Benchmark study. 
 The dataset consisted of 16 wildtype and 10 mutant proteins with experimentally measured cysteine pKa values collected from the [PKAD database](http://compbio.clemson.edu/lab/software/5/).
  
  
@@ -9,6 +9,6 @@ The dataset consisted of 16 wildtype and 10 mutant proteins with experimentally 
 -----
 # Citation
 
-For more information about the benchmark study performed, please refer to the following paper:
+For more information about the benchmark study performed, refer to the following paper:
 
-Ernest Awoonor-Williams, Andrei Golosov, and Viktor Hornak. Benchmarking in silico Tools for Cysteine pKa Prediction
+- [Awoonor-Williams *et al.*, Benchmarking in silico Tools for Cysteine pKa Prediction, JCIM, 63(7), 2170-80.](https://pubs.acs.org/doi/10.1021/acs.jcim.3c00004)
