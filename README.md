@@ -11,4 +11,4 @@ The dataset consisted of 16 wildtype and 10 mutant proteins with experimentally 
 
 For more information about the benchmark study performed, refer to the following paper:
 
-- [Awoonor-Williams *et al.*, Benchmarking in silico Tools for Cysteine pKa Prediction, JCIM, 63(7), 2170-80.](https://pubs.acs.org/doi/10.1021/acs.jcim.3c00004)
+- [Awoonor-Williams *et al.*, Benchmarking *in silico* Tools for Cysteine pK<sub>a</sub> Prediction, JCIM, 63(7), 2170-80.](https://pubs.acs.org/doi/10.1021/acs.jcim.3c00004)
